@@ -1,5 +1,5 @@
 {
-  "name": "uxweb/sweet-alert",
+  "name": "mr-mokhtari/sweet-alert",
   "description": "A simple PHP package to show Sweet Alerts with the Laravel Framework",
   "keywords": [
     "laravel",
